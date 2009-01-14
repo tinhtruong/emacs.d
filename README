@@ -1,0 +1,4 @@
+This is my personal Emacs settings. If you want to use, follow these steps:
+ * Check out this repository to your home directory and rename it to .emacs.d (dot emacs dot d)
+ * Run the command : ln -s ~/.emacs.d/dot-emacs.el ~/.emacs
+ * Enjoy!
